@@ -1,4 +1,5 @@
-
+#!/usr/bin/python
+//author  刘锦厚
 //python version   3.4.2 
 import  math
 print(int(math.pow(2,38)))
